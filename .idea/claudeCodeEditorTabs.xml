@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="a81818e9-82b5-4838-865c-f8b7f74d9488" />
+    <option name="openSessionIds">
+      <list>
+        <option value="a81818e9-82b5-4838-865c-f8b7f74d9488" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="a81818e9-82b5-4838-865c-f8b7f74d9488" value="/sessions/1b2602c0-223a-4ede-a230-900755b17098" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="a81818e9-82b5-4838-865c-f8b7f74d9488" value="@tests/unit/test_smoke.py zasto je adc_sim crveno" />
+      </map>
+    </option>
+  </component>
+</project>
